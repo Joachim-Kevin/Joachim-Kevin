@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Joachim 👋
 
-<!--
-**Joachim-Kevin/Joachim-Kevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer specializing in building modern web applications.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Next.js
+- React
+- TailwindCSS
+- TypeScript
+- Node.js
+
+## Professional Work
+
+### Partner Portal (Private Repository)
+
+Contributed to an enterprise dashboard system.
+
+Key contributions:
+- Built customer dashboard UI
+- Implemented subscription configuration
+- Integrated APIs for customer data
+
+Tech:
+Next.js • React • TailwindCSS
+
+## Featured Projects
+
+Projects demonstrating real-world frontend engineering.
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/ogueri-joachim-kevin-677634194
+Email: oguerijoachimkevin@gmail.com
